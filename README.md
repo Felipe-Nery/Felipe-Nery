@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi everyone 👋
 
 <!--
 **Felipe-Nery/Felipe-Nery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
