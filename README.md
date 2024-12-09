@@ -3,7 +3,7 @@
 
 My name is Felipe Nery, i am 25 years old, living in Manaus, Amazonas, Brazil. I'm trained in Biological science and at the moment master student and working with health data science. 
 
-I develop my research on LabData (https://github.com/LabdataManaus), a data team work with health data in the Brazilian Amazon. 
+My master project involve 2 tropical diseases (malaria and hepatitis) and I develop this research on LabData (https://github.com/LabdataManaus), a data team work with health data in the Brazilian Amazon. 
 
 ## Languages I'm working with 
 <img src="https://www.r-project.org/logo/Rlogo.svg" alt="RStudio" width="50"/> <img src="https://www.qgis.org/styleguide/visual/qgis-logo.png" alt="Qgis" width="100"/> 
