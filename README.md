@@ -1,9 +1,16 @@
 ## Hi everyone 👋 
 
 
-My name is Felipe Nery, i am 25 years old, living in Manaus, Amazonas, Brazil. I am trained in Biological science and at the moment master student.
+My name is Felipe Nery, i am 25 years old, living in Manaus, Amazonas, Brazil. I'm trained in Biological science and at the moment master student and working with health data science. 
 
-- 🔭 I’m currently a master student at Univesidade do Estado do Amazonas in Brazil, my project is about 2 neglected tropical diseases (malaria and hepatitis). To reach my results I need to use some softwares like R and QGIS to do some statistical analysis and maps. 
-- 🌱 I’m currently learning about programming softwares like Python and improving my skills in R, QGIS and Redcap. 
-- 👯 I’m looking to collaborate on projects in the health area, mainly in the statistical analysis 
-- 📫 How to reach me: here in the GitHub and my professional e-mail proffelipenerysb@gmail.com
+I develop my research on LabData (https://github.com/LabdataManaus), a data team work with health data in the Brazilian Amazon. 
+
+## Languages I'm working with 
+<img src="https://www.r-project.org/logo/Rlogo.svg" alt="RStudio" width="50"/> <img src="https://www.qgis.org/styleguide/visual/qgis-logo.png" alt="Qgis" width="100"/> 
+
+## I'm actually learning 
+
+<img src="https://www.python.org/static/community_logos/python-logo-generic.svg" width="100"/>  <img src="https://health.ucdavis.edu/data/includes/images/Img-cdev/logo_redcap-plain.png" width="100"/> 
+
+## Find me in 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipenerysaldanha/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:proffelipenerysb@gmail.com)
